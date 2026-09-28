@@ -1,0 +1,16 @@
+node_modules
+.next
+out
+.env
+.env.local
+*.log
+.env*.local
+out/
+.vercel
+.DS_Store
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+stage-*-summary.md
+Gamified_C.docx
